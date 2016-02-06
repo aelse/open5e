@@ -42,10 +42,10 @@ is a 9th-level spellcaster. Its spellcasting ability is Intelligence
 (spell save DC 16, +8 to hit with spell attacks). It requires no
 material components to cast its spells. The sphinx has the following
 wizard spells prepared: **Cantrips (at will)**: *mage hand*, *minor
-illusion*, *prestidigitation* **1st level (4 slots)**: *detect magic*,
-*identify*, *shield* **2nd level (3 slots)**: *darkness*, *locate
-object*, *suggestion* **3rd level (3 slots):** *dispel magic*, *remove
-curse*, *tongues* **4th level (3 slots):** *banishment*, *greater
+illusion*, :ref:`srd:prestidigitation` **1st level (4 slots)**: *detect magic*,
+:ref:`srd:identify`, :ref:`srd:shield` **2nd level (3 slots)**: :ref:`srd:darkness`, *locate
+object*, :ref:`srd:suggestion` **3rd level (3 slots):** *dispel magic*, *remove
+curse*, :ref:`srd:tongues` **4th level (3 slots):** :ref:`srd:banishment`, *greater
 invisibility* **5th level (1 slot)**: *legend lore*
 
 Actions

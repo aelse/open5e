@@ -27,7 +27,7 @@ the table below.
 
 **Spell or Item Charges Lost**
 
-*Disintegrate* 1d12 *Horn of blasting* 1d10 *Passwall* 1d6
+:ref:`srd:disintegrate` 1d12 *Horn of blasting* 1d10 :ref:`srd:passwall` 1d6
 
 *Prismatic spray* 1d20
 
@@ -43,7 +43,7 @@ six sides of the cube are each keyed to a different plane of existence,
 one of which is the Material Plane. The other sides are linked to planes
 determined by the GM.
 
-You can use an action to press one side of the cube to cast the *gate*
+You can use an action to press one side of the cube to cast the :ref:`srd:gate`
 spell with it, opening a portal to the plane keyed to that side.
 Alternatively, if you use an action to press one side twice, you can
 cast the *plane shift* spell (save DC 17) with the cube and transport

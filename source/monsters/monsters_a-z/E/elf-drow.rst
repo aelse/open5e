@@ -30,7 +30,7 @@ Medium humanoid (elf), neutral evil
 charmed, and magic can't put the drow to sleep. **Innate Spellcasting**:
 The drow's spellcasting ability is Charisma (spell save DC 11). It can
 innately cast the following spells, requiring no material components:
-**At will**: *dancing lights* **1/day each**: *darkness*, *faerie fire*
+**At will**: *dancing lights* **1/day each**: :ref:`srd:darkness`, *faerie fire*
 
 **Sunlight Sensitivity**: While in sunlight, the drow has disadvantage
 on attack rolls, as well as on Wisdom (Perception) checks that rely on

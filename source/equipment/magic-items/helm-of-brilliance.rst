@@ -15,7 +15,7 @@ You gain the following benefits while wearing it:
 
 -  You can use an action to cast one of the following spells (save DC
    18), using one of the helm's gems of the specified type as a
-   component: *daylight* (opal), *fireball* (fire opal), *prismatic
+   component: :ref:`srd:daylight` (opal), :ref:`srd:fireball` (fire opal), *prismatic
    spray* (diamond), or *wall of fire* (ruby). The gem is destroyed when
    the spell is cast and disappears from the helm.
 

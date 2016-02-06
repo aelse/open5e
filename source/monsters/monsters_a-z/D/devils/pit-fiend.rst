@@ -44,7 +44,7 @@ advantage on saving throws against spells and other magical effects.
 Spellcasting**: The pit fiend's spellcasting ability is Charisma (spell
 save DC 21). The pit fiend can innately cast the following spells,
 requiring no material components: **At will**: *detect magic*,
-*fireball* **3/day each**: *hold monster*, *wall of fire*
+:ref:`srd:fireball` **3/day each**: *hold monster*, *wall of fire*
 
 Actions
 

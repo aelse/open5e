@@ -41,10 +41,10 @@ innately cast the following spells, requiring no material components:
 **At will**: *detect thoughts*, *disguise self*, *mage hand*, *minor
 illusion*
 
-**3/day each**: *charm person*, *detect magic*, *invisibility*, *major
+**3/day each**: *charm person*, *detect magic*, :ref:`srd:invisibility`, *major
 image*, s\_uggestion\_
 
-1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
+1/day each: *dominate person*, :ref:`srd:fly`, *plane shift*, *true seeing*
 
 Actions
 

@@ -48,7 +48,7 @@ longswords and one with its tail. **Longsword**: *Melee Weapon Attack*:
 smaller, it is grappled (escape DC 19). Until this grapple ends, the
 target is restrained, the marilith can automatically hit the target with
 its tail, and the marilith can't make tail attacks against other
-targets. **Teleport**: The marilith magically teleports, along with any
+targets. *:ref:`srd:teleport`*: The marilith magically teleports, along with any
 equipment it is wearing or carrying, up to 120 feet to an unoccupied
 space it can see.
 

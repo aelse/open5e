@@ -44,12 +44,12 @@ appears within 5 feet of the mummy lord's heart. **Spellcasting**: The
 mummy lord is a 10th-level spellcaster. Its spellcasting ability is
 Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord
 has the following cleric spells prepared: **Cantrips (at will)**:
-*sacred flame*, *thaumaturgy* **1st level (4 slots)**: *command*,
+*sacred flame*, :ref:`srd:thaumaturgy` **1st level (4 slots)**: :ref:`srd:command`,
 *guiding bolt*, *shield of faith* **2nd level (3 slots)**: *hold
-person*, *silence*, *spiritual weapon* **3rd level (3 slots)**: *animate
-dead*, *dispel magic* 4th level (3 slots): *divination*, *guardian of
-faith* 5th level (2 slots): *contagion*, *insect plague* **6th level (1
-slot)**: *harm*
+person*, :ref:`srd:silence`, *spiritual weapon* **3rd level (3 slots)**: *animate
+dead*, *dispel magic* 4th level (3 slots): :ref:`srd:divination`, *guardian of
+faith* 5th level (2 slots): :ref:`srd:contagion`, *insect plague* **6th level (1
+slot)**: :ref:`srd:harm`
 
 Actions
 

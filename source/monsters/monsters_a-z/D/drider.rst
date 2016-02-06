@@ -31,7 +31,7 @@ being charmed, and magic can't put the drider to sleep. **Innate
 Spellcasting**: The drider's innate spellcasting ability is Wisdom
 (spell save DC 13). The drider can innately cast the following spells,
 requiring no material components: **At will**: *dancing lights* **1/day
-each**: *darkness*, *faerie fire*
+each**: :ref:`srd:darkness`, *faerie fire*
 
 **Spider Climb**: The drider can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.

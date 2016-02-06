@@ -22,7 +22,7 @@ objects to the caster's side, whereas others allow the caster to
 teleport to another location. Some conjurations create objects or
 effects out of nothing.
 
-**Divination** spells reveal information, whether in the form of secrets
+*:ref:`srd:divination`* spells reveal information, whether in the form of secrets
 long forgotten, glimpses of the future, the locations of hidden things,
 the truth behind illusions, or visions of distant people or places.
 

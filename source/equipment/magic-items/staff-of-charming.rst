@@ -9,7 +9,7 @@ Staff of Charming
 warlock, or wizard)*
 
 While holding this staff, you can use an action to expend 1 of its 10
-charges to cast *charm person*, *command*, *or comprehend languages*
+charges to cast *charm person*, :ref:`srd:command`, *or comprehend languages*
 from it using your spell save DC. The staff can also be used as a magic
 quarterstaff.
 
@@ -35,7 +35,7 @@ You have resistance to fire damage while you hold this staff.
 
 The staff has 10 charges. While holding it, you can use an action to
 expend 1 or more of its charges to cast one of the following spells from
-it, using your spell save DC: *burning hands* (1 charge), *fireball* (3
+it, using your spell save DC: *burning hands* (1 charge), :ref:`srd:fireball` (3
 charges), or *wall of fire* (4 charges).
 
 The staff regains 1d6 + 4 expended charges daily

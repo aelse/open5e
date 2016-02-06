@@ -28,16 +28,16 @@ below).
 **Spells.** While holding the staff, you can use an action to expend
 some of its charges to cast one of the following spells from it, using
 your spell save DC and spellcasting ability: *conjure elemental* (7
-charges), *dispel magic* (3 charges), *fireball* (7th-­level version, 7
+charges), *dispel magic* (3 charges), :ref:`srd:fireball` (7th-­level version, 7
 charges), *flaming sphere* (2 charges), *ice storm* (4 charges),
-*invisibility* (2 charges), *knock* (2 charges), *lightning bolt*
-(7th-­level version, 7 charges), *passwall* (5 charges), *plane shift*
-(7 charges), *telekinesis* (5 charges), *wall of fire* (4 charges), or
-*web* (2 charges).
+:ref:`srd:invisibility` (2 charges), :ref:`srd:knock` (2 charges), *lightning bolt*
+(7th-­level version, 7 charges), :ref:`srd:passwall` (5 charges), *plane shift*
+(7 charges), :ref:`srd:telekinesis` (5 charges), *wall of fire* (4 charges), or
+:ref:`srd:web` (2 charges).
 
 You can also use an action to cast one of the
 followingspellsfromthestaffwithoutusingany charges: *arcane lock*,
-*detect magic*, *enlarge/reduce*, *light*, *mage hand*, or *protection
+*detect magic*, *enlarge/reduce*, :ref:`srd:light`, *mage hand*, or *protection
 from evil and good.*
 
 **Retributive Strike.** You can use an action to break the staff over

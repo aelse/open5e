@@ -30,10 +30,10 @@ Large giant, lawful evil
 
 **Innate Spellcasting**: The oni's innate spellcasting ability is
 Charisma (spell save DC 13). The oni can innately cast the following
-spells, requiring no material components: **At will**: *darkness*,
-*invisibility*
+spells, requiring no material components: **At will**: :ref:`srd:darkness`,
+:ref:`srd:invisibility`
 
-**1/day each**: *charm person*, *cone of cold*, *gaseous form*, *sleep*
+**1/day each**: *charm person*, *cone of cold*, *gaseous form*, :ref:`srd:sleep`
 
 **Magic Weapons**: The oni's weapon attacks are magical.
 **Regeneration**: The oni regains 10 hit points at the start of its turn

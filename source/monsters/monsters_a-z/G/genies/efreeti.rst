@@ -34,7 +34,7 @@ efreeti was wearing or carrying. **Innate Spellcasting**: The efreeti's
 innate spellcasting ability is Charisma (spell save DC 15, +7 to hit
 with spell attacks). It can innately cast the following spells,
 requiring no material components: **At will**: *detect magic* **3/day:**
-*enlarge/reduce*, *tongues* **1/day each:** *conjure elemental* (fire
+*enlarge/reduce*, :ref:`srd:tongues` **1/day each:** *conjure elemental* (fire
 elemental only), *gaseous form, invisibility*, *major image*, *plane
 shift*, *wall of fire*
 

@@ -64,7 +64,7 @@ light, such as a torch, and surrounding darkness. The soft light of
 twilight and dawn also counts as dim light. A particularly brilliant
 full moon might bathe the land in dim light.
 
-**Darkness** creates a heavily obscured area. Characters face darkness
+*:ref:`srd:darkness`* creates a heavily obscured area. Characters face darkness
 outdoors at night (even most moonlit nights), within the confines of an
 unlit dungeon or a subterranean vault, or in an area of magical
 darkness.

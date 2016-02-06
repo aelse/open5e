@@ -52,7 +52,7 @@ access to the following additional properties:
 -  You can cast the following spells from the ring, expending the
    necessary number of charges: *stone*
 
-*shape* (2 charges), *stoneskin* (3 charges), or *wall of stone* (3
+*shape* (2 charges), :ref:`srd:stoneskin` (3 charges), or *wall of stone* (3
 charges).
 
 **Ring of Fire Elemental Command.** You can expend 2 of the ring's
@@ -65,7 +65,7 @@ access to the following additional properties:
 -  You are immune to fire damage.
 
 -  You can cast the following spells from the ring, expending the
-   necessary number of charges: *burning hands* (1 charge), *fireball*
+   necessary number of charges: *burning hands* (1 charge), :ref:`srd:fireball`
    (2 charges), and *wall of fire* (3 charges).
 
 **Ring of Water Elemental Command.** You can expend 2 of the ring's

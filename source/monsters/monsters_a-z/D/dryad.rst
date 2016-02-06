@@ -6,7 +6,7 @@ Dryad
 
 Medium fey, neutral
 
-**Armor Class** 11 (16 with *barkskin*)
+**Armor Class** 11 (16 with :ref:`srd:barkskin`)
 
 **Hit Points** 22 (5d8)
 
@@ -29,8 +29,8 @@ Medium fey, neutral
 **Innate Spellcasting**: The dryad's innate spellcasting ability is
 Charisma (spell save DC 14). The dryad can innately cast the following
 spells, requiring no material components: **At will**: *druidcraft*
-3/day each: *entangle*, *goodberry* 1/day each: *barkskin*, *pass
-without trace*, *shillelagh*
+3/day each: :ref:`srd:entangle`, *goodberry* 1/day each: :ref:`srd:barkskin`, *pass
+without trace*, :ref:`srd:shillelagh`
 
 **Magic Resistance**: The dryad has advantage on saving throws against
 spells and other magical effects. **Speak with Beasts and Plants**: The

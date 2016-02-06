@@ -36,7 +36,7 @@ must succeed on a DC 15 Strength saving throw or be knocked prone.
 Charisma (spell save DC 14). The unicorn can innately cast the following
 spells, requiring no components: **At will**: *detect evil and good*,
 *druidcraft*, *pass without trace* **1/day each:** *calm emotions*,
-*dispel evil and good*, *entangle*
+*dispel evil and good*, :ref:`srd:entangle`
 
 **Magic Resistance**: The unicorn has advantage on saving throws against
 spells and other magical effects. **Magic Weapons**: The unicorn's

@@ -105,7 +105,7 @@ infection, the creature's vision starts to become blurry. The creature
 takes a −1 penalty to attack rolls and ability checks that rely on
 sight. At the end of each long rest after the symptoms appear, the
 penalty worsens by 1. When it reaches −5, the victim is blinded until
-its sight is restored by magic such as *lesser restoration* or *heal*.
+its sight is restored by magic such as *lesser restoration* or :ref:`srd:heal`.
 
 Sight rot can be cured using a rare flower called Eyebright, which grows
 in some swamps. Given an hour, a character who has proficiency with an

@@ -41,8 +41,8 @@ solar hits with any weapon, the weapon deals an extra 6d8 radiant damage
 hears a lie. **Innate Spellcasting**: The solar's spellcasting ability
 is Charisma (spell save DC 25). It can innately cast the following
 spells, requiring no material components: **At will**: *detect evil and
-good*, *invisibility* (self only) 3/day each: *blade barrier*, *dispel
-evil and good*, resurrection **1/day each**: *commune*, *control
+good*, :ref:`srd:invisibility` (self only) 3/day each: *blade barrier*, *dispel
+evil and good*, resurrection **1/day each**: :ref:`srd:commune`, *control
 weather*
 
 **Magic Resistance**: The solar has advantage on saving throws against
@@ -74,7 +74,7 @@ Only one legendary action option can be used at a time and only at the
 end of another creature's turn. The solar regains spent legendary
 actions at the start of its turn.
 
-**Teleport**: The solar magically teleports, along with any equipment it
+*:ref:`srd:teleport`*: The solar magically teleports, along with any equipment it
 is wearing or carrying, up to 120 feet to an unoccupied space it can
 see. **Searing Burst (Costs 2 Actions)**: The solar emits magical,
 divine energy. Each creature of its choice in a 10-foot radius must make

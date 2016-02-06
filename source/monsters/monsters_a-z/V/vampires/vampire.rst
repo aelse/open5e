@@ -62,7 +62,7 @@ this trait doesn't function at the start of the vampire's next turn.
 **Spider Climb**: The vampire can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.
 **Vampire Weaknesses**: The vampire has the following flaws:
-**Forbiddance**: The vampire can't enter a residence without an
+*:ref:`srd:forbiddance`*: The vampire can't enter a residence without an
 invitation from one of the occupants.
 
 **Harmed by Running Water**: The vampire takes 20 acid damage if it ends

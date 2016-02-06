@@ -35,7 +35,7 @@ from nonmagical attacks not made with silvered weapons
 Charisma (spell save DC 14, +6 to hit with spell attacks). She can
 innately cast the following spells, requiring no material components:
 **At will**: *detect magic*, *magic missile* **2/day each**: *plane
-shift* (self only), *ray of enfeeblement*, *sleep*
+shift* (self only), *ray of enfeeblement*, :ref:`srd:sleep`
 
 **Magic Resistance**: The hag has advantage on saving throws against
 spells and other magical effects.
@@ -47,7 +47,7 @@ ft., one target. *Hit*: 13 (2d8 + 4) slashing damage. **Change Shape**:
 The hag magically polymorphs into a Small or Medium female humanoid, or
 back into her true form. Her statistics are the same in each form. Any
 equipment she is wearing or carrying isn't transformed. She reverts to
-her true form if she dies. **Etherealness**: The hag magically enters
+her true form if she dies. *:ref:`srd:etherealness`*: The hag magically enters
 the Ethereal Plane from the Material Plane, or vice versa. To do so, the
 hag must have a *heartstone* in her possession. **Nightmare Haunting
 (1/Day)**: While on the Ethereal Plane, the hag magically touches a

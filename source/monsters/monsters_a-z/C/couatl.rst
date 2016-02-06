@@ -34,10 +34,10 @@ nonmagical attacks
 **Innate Spellcasting**: The couatl's spellcasting ability is Charisma
 (spell save DC 14). It can innately cast the following spells, requiring
 only verbal components: **At will**: *detect evil and good*, *detect
-magic*, *detect thoughts* **3/day each**: *bless*, *create food and
+magic*, *detect thoughts* **3/day each**: :ref:`srd:bless`, *create food and
 water*, *cure wounds*, *lesser restoration*, *protection from poison*,
-*sanctuary*, *shield* **1/day each**: *dream*, *greater restoration*,
-*scrying*
+:ref:`srd:sanctuary`, :ref:`srd:shield` **1/day each**: :ref:`srd:dream`, *greater restoration*,
+:ref:`srd:scrying`
 
 **Magic Weapons**: The couatl's weapon attacks are magical. **Shielded
 Mind**: The couatl is immune to scrying and to any effect that would

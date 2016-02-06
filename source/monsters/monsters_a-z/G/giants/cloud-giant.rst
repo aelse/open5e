@@ -32,8 +32,8 @@ Huge giant, neutral good (50%) or neutral evil (50%)
 that rely on smell. **Innate Spellcasting**: The giant's innate
 spellcasting ability is Charisma. It can innately cast the following
 spells, requiring no material components: **At will**: *detect magic*,
-*fog cloud*, *light* **3/day each**: *feather fall*, *fly*, *misty
-step*, *telekinesis* **1/day each**: *control weather*, *gaseous form*
+*fog cloud*, :ref:`srd:light` **3/day each**: *feather fall*, :ref:`srd:fly`, *misty
+step*, :ref:`srd:telekinesis` **1/day each**: *control weather*, *gaseous form*
 
 Actions
 

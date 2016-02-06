@@ -23,7 +23,7 @@ Medium humanoid (any race), any alignment
 **Skills** Arcana +13, History +13
 
 **Damage Resistance** damage from spells; nonmagical bludgeoning,
-piercing, and slashing (from *stoneskin*)
+piercing, and slashing (from :ref:`srd:stoneskin`)
 
 **Senses** passive Perception 12
 
@@ -37,24 +37,24 @@ against spells and other magical effects.
 **Spellcasting**: The archmage
 is an 18th-level spellcaster. Its spellcasting ability is Intelligence
 (spell save DC 17, +9 to hit with spell attacks). The archmage can cast
-*disguise self* and *invisibility* at will and has the following wizard
+*disguise self* and :ref:`srd:invisibility` at will and has the following wizard
 spells prepared:
 
-    **Cantrips (at will)**: *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
+    **Cantrips (at will)**: *fire bolt*, :ref:`srd:light`, *mage hand*, :ref:`srd:prestidigitation`, *shocking grasp*
 
-    **1st level (4 slots)**: *detect magic*, *identify*, *mage armor*\*, *magic missile*
+    **1st level (4 slots)**: *detect magic*, :ref:`srd:identify`, *mage armor*\*, *magic missile*
 
     **2nd level (3 slots)**: *detect thoughts*, *mirror image*, *misty step*
 
-    **3rd level (3 slots)**: *counterspell*, *fly*, *lightning bolt*
+    **3rd level (3 slots)**: *counterspell*, :ref:`srd:fly`, *lightning bolt*
 
-    **4th level (3 slots)**: *banishment*, *fire shield*, *stoneskin*\*
+    **4th level (3 slots)**: :ref:`srd:banishment`, *fire shield*, :ref:`srd:stoneskin`\*
 
-    **5th level (3 slots)**: *cone of cold*, *scrying*, *wall of force*
+    **5th level (3 slots)**: *cone of cold*, :ref:`srd:scrying`, *wall of force*
 
     **6th level (1 slot)**: *globe of invulnerability*
 
-    **7th level (1 slot)**: *teleport*
+    **7th level (1 slot)**: :ref:`srd:teleport`
 
     **8th level (1 slot)**: *mind blank*\*
 

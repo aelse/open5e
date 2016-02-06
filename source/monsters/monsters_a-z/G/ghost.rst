@@ -41,7 +41,7 @@ its turn inside an object.
 Actions
 
 **Withering Touch**: *Melee Weapon Attack*: +5 to hit, reach 5 ft., one
-target. *Hit*: 17 (4d6 + 3) necrotic damage. **Etherealness**: The ghost
+target. *Hit*: 17 (4d6 + 3) necrotic damage. *:ref:`srd:etherealness`*: The ghost
 enters the Ethereal Plane from the Material Plane, or vice versa. It is
 visible on the Material Plane while it is in the Border Ethereal, and
 vice versa, yet it can't affect or be affected by anything on the other

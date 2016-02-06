@@ -32,13 +32,13 @@ Medium humanoid (any race), any alignment
 ability is Intelligence (spell save DC 14, +6 to hit with spell
 attacks). The mage has the following wizard spells prepared:
 
-    **Cantrips (at will)**: *fire bolt*, *light*, *mage hand*, *prestidigitation* 
+    **Cantrips (at will)**: *fire bolt*, :ref:`srd:light`, *mage hand*, :ref:`srd:prestidigitation` 
 
-    **1st level (4 slots)**: *detect magic*, *mage armor*, *magic missile*, *shield* 
+    **1st level (4 slots)**: *detect magic*, *mage armor*, *magic missile*, :ref:`srd:shield` 
 
-    **2nd level (3 slots)**: *misty step*, *suggestion* 
+    **2nd level (3 slots)**: *misty step*, :ref:`srd:suggestion` 
 
-    **3rd level (3 slots)**: *counterspell*, *fireball*, *fly* 
+    **3rd level (3 slots)**: *counterspell*, :ref:`srd:fireball`, :ref:`srd:fly` 
 
     **4th level (3 slots)**: *greater invisibility*, *ice storm* 
 

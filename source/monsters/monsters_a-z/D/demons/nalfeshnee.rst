@@ -58,6 +58,6 @@ creature's saving throw is successful or the effect ends for it, the
 creature is immune to the nalfeshnee's Horror Nimbus for the next 24
 hours.
 
-**Teleport**: The nalfeshnee magically teleports, along with any
+*:ref:`srd:teleport`*: The nalfeshnee magically teleports, along with any
 equipment it is wearing or carrying, up to 120 feet to an unoccupied
 space it can see.

@@ -38,7 +38,7 @@ Spell Level
 
 Every spell has a level from 0 to 9. A spell's level is a general
 indicator of how powerful it is, with the lowly (but still impressive)
-*magic missile* at 1st level and the earth-­shaking *wish* at 9th.
+*magic missile* at 1st level and the earth-­shaking :ref:`srd:wish` at 9th.
 Cantrips---simple but powerful spells that characters can cast almost by
 rote---are level 0. The higher a spell's level, the higher level a
 spellcaster must be to use that spell.

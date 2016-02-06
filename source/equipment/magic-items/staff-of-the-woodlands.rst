@@ -18,8 +18,8 @@ quarterstaff.
 
 **Spells.** You can use an action to expend 1 or more of the staff's
 charges to cast one of the following spells from it, using your spell
-save DC: *animal friendship* (1 charge), *awaken* (5 charges),
-*barkskin* (2 charges), *locate animals or plants* (2 charges), *speak
+save DC: *animal friendship* (1 charge), :ref:`srd:awaken` (5 charges),
+:ref:`srd:barkskin` (2 charges), *locate animals or plants* (2 charges), *speak
 with animals* (1 charge), *speak with plants* (3 charges), or *wall of
 thorns* (6 charges).
 

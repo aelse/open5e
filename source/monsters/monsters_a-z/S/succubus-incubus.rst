@@ -58,5 +58,5 @@ psychic damage on a failed save, or half as much damage on a successful
 one. The target's hit point maximum is reduced by an amount equal to the
 damage taken. This reduction lasts until the target finishes a long
 rest. The target dies if this effect reduces its hit point maximum to 0.
-**Etherealness**: The fiend magically enters the Ethereal Plane from the
+*:ref:`srd:etherealness`*: The fiend magically enters the Ethereal Plane from the
 Material Plane, or vice versa.

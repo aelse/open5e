@@ -34,10 +34,10 @@ carrying. **Innate Spellcasting**: The djinni's innate spellcasting
 ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It
 can innately cast the following spells, requiring no material
 components: **At will**: *detect evil and good*, *detect magic*,
-*thunderwave* **3/day each**: *create food and water* (can create wine
-instead of water), *tongues*, *wind walk* **1/day each**: *conjure
-elemental* (air elemental only), *creation*, *gaseous form*,
-*invisibility*, *major image*, *plane shift*
+:ref:`srd:thunderwave` **3/day each**: *create food and water* (can create wine
+instead of water), :ref:`srd:tongues`, *wind walk* **1/day each**: *conjure
+elemental* (air elemental only), :ref:`srd:creation`, *gaseous form*,
+:ref:`srd:invisibility`, *major image*, *plane shift*
 
 Actions
 

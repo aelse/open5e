@@ -31,7 +31,7 @@ checks made to hide in rocky terrain. **Gnome Cunning**: The gnome has
 advantage on Intelligence, Wisdom, and Charisma saving throws against
 magic. **Innate Spellcasting**: The gnome's innate spellcasting ability
 is Intelligence (spell save DC 11). It can innately cast the following
-spells, requiring no material components: **At will**: *nondetection*
+spells, requiring no material components: **At will**: :ref:`srd:nondetection`
 (self only) **1/day each:** blindness/deafness, blur, disguise self
 
 Actions

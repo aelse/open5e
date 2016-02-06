@@ -39,9 +39,9 @@ damage (included in the attack). **Divine Awareness**: The planetar
 knows if it hears a lie. **Innate Spellcasting**: The planetar's
 spellcasting ability is Charisma (spell save DC 20). The planetar can
 innately cast the following spells, requiring no material components:
-**At will**: *detect evil and good*, *invisibility* (self only) 3/day
+**At will**: *detect evil and good*, :ref:`srd:invisibility` (self only) 3/day
 each: *blade barrier*, *dispel evil and good*, *flame strike*, raise
-dead **1/day each**: *commune*, *control weather*, *insect plague*
+dead **1/day each**: :ref:`srd:commune`, *control weather*, *insect plague*
 **Magic Resistance**: The planetar has advantage on saving throws
 against spells and other magical effects.
 

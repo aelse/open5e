@@ -23,7 +23,7 @@ of you that is of the same type as the armor. This special action can't
 be used again until the next dawn.
 
 +----------------+--------------------+----------------+--------------------+
-| **Dragon**     | **Resistance**     | **Dragon**     | **Resistance**     |
+| **Dragon**     | *:ref:`srd:resistance`*     | **Dragon**     | *:ref:`srd:resistance`*     |
 +================+====================+================+====================+
 | Black          | Acid               | Gold           | Fire               |
 +----------------+--------------------+----------------+--------------------+

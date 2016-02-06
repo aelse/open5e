@@ -13,7 +13,7 @@ charges to cast one of the following spells:
 
 -  *Animal friendship* (save DC 13)
 
--  *Fear* (save DC 13), targeting only beasts that have an Intelligence
+-  :ref:`srd:fear` (save DC 13), targeting only beasts that have an Intelligence
    of 3 or lower
 
 -  *Speak with animals*

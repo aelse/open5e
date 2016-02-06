@@ -43,13 +43,13 @@ points and becoming active again. The new body appears within 5 feet of
 the phylactery. **Spellcasting**: The lich is an 18th-level spellcaster.
 Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit
 with spell attacks). The lich has the following wizard spells prepared:
-**Cantrips (at will)**: *mage hand*, *prestidigitation*, *ray of frost*
-**1st level (4 slots)**: *detect magic*, *magic missile*, *shield*,
-*thunderwave* **2nd level (3 slots)**: *acid arrow*, *detect thoughts*,
-*invisibility*, *mirror image* **3rd level (3 slots)**: *animate dead*,
-*counterspell*, *dispel magic*, *fireball* **4th level (3 slots)**:
-*blight*, *dimension door* **5th level (3 slots)**: *cloudkill*,
-*scrying* **6th level (1 slot)**: *disintegrate*, *globe of
+**Cantrips (at will)**: *mage hand*, :ref:`srd:prestidigitation`, *ray of frost*
+**1st level (4 slots)**: *detect magic*, *magic missile*, :ref:`srd:shield`,
+:ref:`srd:thunderwave` **2nd level (3 slots)**: *acid arrow*, *detect thoughts*,
+:ref:`srd:invisibility`, *mirror image* **3rd level (3 slots)**: *animate dead*,
+*counterspell*, *dispel magic*, :ref:`srd:fireball` **4th level (3 slots)**:
+:ref:`srd:blight`, *dimension door* **5th level (3 slots)**: :ref:`srd:cloudkill`,
+:ref:`srd:scrying` **6th level (1 slot)**: :ref:`srd:disintegrate`, *globe of
 invulnerability* **7th level (1 slot)**: *finger of death*, *plane
 shift* **8th level (1 slot)**: *dominate monster*, *power word stun*
 **9th level (1 slot)**: *power word kill*

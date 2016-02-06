@@ -39,8 +39,8 @@ you can expend 1 charge to deal an extra 1d6 force damage to the target.
 **Spells.** While holding this staff, you can use an action to expend
 1 or more of its charges to cast one of the following spells from it,
 using your spell save DC and spell attack bonus: *cone of cold* (5
-charges), *fireball* (5th-­level version, 5 charges), *globe of
-invulnerability* (6 charges), *hold monster* (5 charges), *levitate* (2
+charges), :ref:`srd:fireball` (5th-­level version, 5 charges), *globe of
+invulnerability* (6 charges), *hold monster* (5 charges), :ref:`srd:levitate` (2
 charges), *lightning bolt* (5th-­level version, 5 charges), *magic
 missile* (1 charge), *ray of enfeeblement* (1 charge), or *wall of
 force* (5 charges).
